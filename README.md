@@ -1,6 +1,6 @@
 ## BYLAWS
 
-These are the official Bylaws of CoinAlliance, Inc. (http://CoinAlliance.com), a Switzerland non-profit corporation.
+These are the official Bylaws of CoinAlliance, Inc. (https://CoinAlliance.com), a Switzerland non-profit corporation.
 
 ## License
 
